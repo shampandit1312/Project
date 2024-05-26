@@ -28,9 +28,9 @@
             <div class="content pt-4 pt-lg-0">
               <h3>TYPES OF PASSPORT IN INDIA</h3> 
               <ul>
-                <li><i class="bi bi-check-circle"></i>  REGULAR (NORMAL) PASSPORT – THIS PASSPORT IS A COMMON PASSPORT WHICH IS GENERALLY GIVEN TO INDIAN CITIZENS FOR OVERSEA TRAVEL FOR LEISURE OR BUSINESS PURPOSE. IT IS NAVY BLUE IN COLOR.</li>
-                <li><i class="bi bi-check-circle"></i>  DIPLOMATIC PASSPORT – A PASSPORT THAT IS ISSUED TO INDIAN DIPLOMATS AND GOVERNMENT OFFICIALS OF THE HIGH POST. IT IS MAROON IN COLOR.</li>
-                <li><i class="bi bi-check-circle"></i> OFFICIAL PASSPORT – A PASSPORT THAT IS EXCLUSIVELY ISSUED TO INDIAN OFFICIALS, WHO REPRESENT THE INDIAN GOVERNMENT. IT IS WHITE IN COLOR.</li>
+                <li><i class="bi bi-check-circle"></i>  <b>Regular (normal) passport</b> – this passport is a common passport which is generally given to indian citizens for oversea travel for leisure or business purpose. It is navy blue in color.</li>
+                <li><i class="bi bi-check-circle"></i><b> Diplomatic passport</b> – a passport that is issued to indian diplomats and government officials of the high post. It is maroon in color.</li>
+                <li><i class="bi bi-check-circle"></i> <b>Official passport</b> – a passport that is exclusively issued to indian officials, who represent the indian government. It is white in color.</li>
               </ul>
                
             </div>

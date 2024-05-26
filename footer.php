@@ -37,8 +37,8 @@
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Passport Seva</h4>
-            <p>Contact With Us</p>
+            <h4 class="text-white">Passport Seva</h4>
+            <p class="text-white">Contact With Us</p>
               <strong>Phone:</strong> 8371927808<br>
                 <strong>Email:</strong> shambhavipandit12@gmail.com<br>
               </p>
